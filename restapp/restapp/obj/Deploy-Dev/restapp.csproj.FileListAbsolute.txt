@@ -1,0 +1,5 @@
+D:\Chez-Denali\restapp\restapp\bin\restapp.dll
+D:\Chez-Denali\restapp\restapp\bin\restapp.pdb
+D:\Chez-Denali\restapp\restapp\obj\Deploy-Dev\ResolveAssemblyReference.cache
+D:\Chez-Denali\restapp\restapp\obj\Deploy-Dev\restapp.dll
+D:\Chez-Denali\restapp\restapp\obj\Deploy-Dev\restapp.pdb

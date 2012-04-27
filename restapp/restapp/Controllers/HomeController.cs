@@ -10,7 +10,7 @@ namespace restapp.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
+            ViewBag.Message = "Welcome to our restaurant ASP.NET MVC application!";
 
             return View();
         }

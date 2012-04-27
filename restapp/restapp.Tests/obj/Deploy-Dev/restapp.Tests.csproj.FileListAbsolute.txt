@@ -1,0 +1,8 @@
+D:\Chez-Denali\restapp\restapp.Tests\bin\Deploy-Dev\restapp.Tests.dll.config
+D:\Chez-Denali\restapp\restapp.Tests\bin\Deploy-Dev\restapp.Tests.dll
+D:\Chez-Denali\restapp\restapp.Tests\bin\Deploy-Dev\restapp.Tests.pdb
+D:\Chez-Denali\restapp\restapp.Tests\bin\Deploy-Dev\restapp.dll
+D:\Chez-Denali\restapp\restapp.Tests\bin\Deploy-Dev\restapp.pdb
+D:\Chez-Denali\restapp\restapp.Tests\obj\Deploy-Dev\ResolveAssemblyReference.cache
+D:\Chez-Denali\restapp\restapp.Tests\obj\Deploy-Dev\restapp.Tests.dll
+D:\Chez-Denali\restapp\restapp.Tests\obj\Deploy-Dev\restapp.Tests.pdb

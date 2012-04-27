@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="63D44C51-995A-4ED7-ACED-2CC8E6E00C8D" ModuleId="restapp" />
+  <Module PersistentId="BFE891E5-8B38-4332-94FF-806E23E99792" ModuleId="restapp.Tests" />
+</Modules>
